@@ -1,6 +1,6 @@
 using System;
 
-namespace EFRolesAuthorizationClaimsAuthentication.Models
+namespace EFRolesAuthorizationClaimsAuthentication.ViewModels
 {
     public class ErrorViewModel
     {
